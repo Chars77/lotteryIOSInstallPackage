@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ruok.News</string>
+				<string>com.ruok.xintiandi</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
