@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://app.socks.gg/a/wangwang.ipa?raw=true</string>
+					<string>http://app.socks.gg/c/kuaigou.ipa?raw=true</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ruok.wangwang</string>
+				<string>com.ruok.kuaigou</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>旺旺彩票</string>
+				<string>快购彩票</string>
 			</dict>
 		</dict>
 	</array>
